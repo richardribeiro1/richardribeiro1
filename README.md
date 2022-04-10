@@ -3,7 +3,7 @@
 - Dreaming about working with programming 
 - I already know the basics of OOP and have been programming C++ (Arduino) and Java (Android).
 - Learning Kotlin for Android Development.
-- Actually working with PLC's Siemens with Ladder, STL, FDB languages. So I work with a programming. A different kind of programming.
+- Actually working with PLC's Siemens with Ladder, FDB, SCL and STL languages. So I work with a programming. A different kind of programming.
 - Actually studying by myself to learn the basics of programming. My objective is learning basic things like HTML, CSS and Kotlin.
 - I want to learning how to use Android Studio and VSCode. 
 - I have some experience working with CorelDRAW and Photoshop and this actually helps me develop good interfaces.
