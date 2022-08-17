@@ -8,3 +8,5 @@
 - Actually working with PLC's Siemens with Ladder, FDB, SCL and STL languages.
 - Studying by myself to learn programming.
 - I have some experience working with CorelDRAW and Photoshop and this actually helps me develop good interfaces.
+
+Linkedin: https://www.linkedin.com/in/richard-ribeiro1/
